@@ -1,0 +1,14 @@
+{
+  "name": "ritaswc/csv-stream-exporter",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Ritaswc\\CsvStream\\": "src/"
+    }
+  },
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=5.1"
+  }
+}
